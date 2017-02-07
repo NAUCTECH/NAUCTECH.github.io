@@ -68,7 +68,11 @@ Hero
 background-color: white;
 height:22em;
 background-image: url("../img/vertical_cloth2.png");
-padding: 3em 0;
+padding: 1em 0;
+}
+.hero h2{
+  width:80%;
+  margin: auto;
 }
 .wrap-cont{
   width:85%;
@@ -90,6 +94,17 @@ Main Section
   background-color: rgb(50,50,50);
   padding: 2em 0 1.5em 0;
 
+}
+.main h4 a{
+  font-family: 'Oswald', sans-serif;
+  color:rgb(106, 192, 193);
+  font-weight: bold;
+}
+.main h4 a:hover{
+  ont-family: 'Oswald', sans-serif;
+  font-weight: bold;
+  font-size: 1.1em;
+  color:gold;
 }
 
 /**************************************************************
