@@ -68,14 +68,20 @@ Hero
 background-color: white;
 height:22em;
 background-image: url("../img/vertical_cloth2.png");
-
-
-
+padding: 3em 0;
 }
 .wrap-cont{
-
+  width:85%;
+  max-width: 1000px;
+  margin:0 auto;
 }
-
+.hero h3{
+  color:white;
+}
+.orbit-container{
+  width:85%;
+  margin:auto;
+}
 
 /**************************************************************
 Main Section
@@ -92,6 +98,7 @@ Footer
 footer{
   background-color: rgb(45,45,45);
   padding-bottom: 3em;
+  text-align: center;
 }
 
 footer a{
@@ -103,7 +110,9 @@ footer a{
   padding-top: 2.4em;
   text-align: center;
 }
-
+span{
+  color:rgba(255,255,255,.5);
+}
 
 a:link, a:visited{
   font-family: 'Oswald', sans-serif;
