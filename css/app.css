@@ -113,6 +113,28 @@ footer a{
 span{
   color:rgba(255,255,255,.5);
 }
+.wrap-footer{
+  text-align: center;
+  width:50%;
+  max-width: 600px;
+  margin:0 auto;
+}
+.wrap-footer2{
+  text-align: center;
+  width:80%;
+  max-width: 900px;
+  margin:0 auto;
+}
+table td{
+  width: 25%;
+}
+table tbody, table tbody tr:nth-child(even) {
+  background-color: transparent;
+}
+
+.table-image{
+  width:60px;
+}
 
 a:link, a:visited{
   font-family: 'Oswald', sans-serif;
