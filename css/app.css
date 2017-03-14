@@ -65,9 +65,9 @@ Navigation
 Hero
 **************************************************************/
 .hero{
-background-color: white;
+background-color: red;
 height:22em;
-background-image: url("../img/vertical_cloth2.png");
+/*background-image: url("../img/vertical_cloth2.png");*/
 padding: 1em 0;
 }
 .hero h2{
