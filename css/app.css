@@ -76,10 +76,10 @@ padding: 1em 0;
 }
 
 .hero2{
-background-color: red;
-height:22em;
-
-padding: 1em 0;
+  background-color: grey;
+  height:22em;
+  background-image: url("../img/red.jpg");
+  padding: 1em 0;
 }
 .hero2 h2{
   width:80%;
