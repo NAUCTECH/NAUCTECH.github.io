@@ -74,6 +74,18 @@ padding: 1em 0;
   width:80%;
   margin: auto;
 }
+
+.hero2{
+background-color: red;
+height:22em;
+
+padding: 1em 0;
+}
+.hero2 h2{
+  width:80%;
+  margin: auto;
+}
+
 .wrap-cont{
   width:85%;
   max-width: 1000px;
